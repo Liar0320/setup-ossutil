@@ -1,5 +1,5 @@
 # action.yml
-name: "Setup Ossutil"
+name: "Setup Ossutil64"
 description: "Setup aliyun ossutil"
 branding:
   icon: 'play'  
